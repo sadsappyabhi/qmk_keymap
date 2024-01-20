@@ -10,9 +10,10 @@ jobs:
       matrix:
 # List of keymap json files to build
         file:
-        - piantor.json
+#        - piantor.json
 # Uncomment ortho AFTER setting up config.h and rules.mk multiple keyboards
 #        - ortho.json
+        - swoop.json
 # End of json file list
 
     steps:
