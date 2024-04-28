@@ -12,8 +12,8 @@ jobs:
         file:
 #        - piantor.json
 # Uncomment ortho AFTER setting up config.h and rules.mk multiple keyboards
-#        - ortho.json
-        - swoop.json
+#       - ortho.json
+#       - swoop.json
         - sweep.json
 # End of json file list
 
